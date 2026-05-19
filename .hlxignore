@@ -1,7 +1,11 @@
 .*
-*.md
 karma.config.js
 LICENSE
 package.json
 package-lock.json
 test/*
+CLAUDE.md
+AGENTS.md
+CONTRIBUTING.md
+CODE_OF_CONDUCT.md
+README.md
