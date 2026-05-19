@@ -1,0 +1,51 @@
+- [![The Next Applied](/icons/mphasis-logo.svg)](/home)
+
+---
+
+- [Our Approach](/home/our-approach-new)
+- **Industries**
+  - [Banking & Capital Markets](/home/industries/banking-capitalmarkets)
+  - [Insurance](/home/industries/insurance)
+  - [Payments](/home/industries/payments)
+  - [Hospitality](/home/industries/hospitality)
+  - [Travel & Transportation](/home/industries/airlines)
+  - [Healthcare](/home/industries/healthcare)
+  - [Life Sciences](/home/industries/life-sciences)
+  - [Public Sector](/home/industries/public-sector)
+  - [Hi-Tech](/home/industries/hi-tech/hi-tech)
+  - [Communications](/home/industries/other-industries/communications)
+  - [Energy & Utility](/home/industries/other-industries/energy-and-utility)
+  - [Logistics](/home/industries/other-industries/logistics)
+  - [Manufacturing](/home/industries/other-industries/manufacturing)
+- **Services**
+  - [Application Services](/home/services/application-services)
+  - [Blockchain](/home/services/blockchain-technology)
+  - [Business Process Services](/home/services/business-process-services)
+  - [Cognitive](/home/services/cognitive)
+  - [Cyber Security](/home/services/cyber-security)
+  - [DevOps](/home/services/devOps/devOps)
+  - [AI](/home/mphasis-ai)
+  - [Digital](/home/services/digital)
+  - [Experience Design](/home/experience-design)
+  - [Infrastructure Services](/home/services/infrastructure-services)
+  - [Cloud](/home/services/cloud-computing-services)
+  - [Salesforce COE](/home/services/salesforce-consulting-services-coe)
+- **Innovation**
+  - [Sparkle](/home/innovation/sparkle)
+  - [NEXT Labs](/home/innovation/nextlabs)
+  - [Thought Leadership](/home/corporate/thought-leadership)
+- **About Mphasis**
+  - [About Us](/home/corporate/about-mphasis)
+  - [Leadership](/home/corporate/leadership)
+  - [Awards & Partners](/home/corporate/awards-and-partners)
+  - [Diversity](/home/corporate/diversity-at-mphasis)
+  - [Contact Us](/home/corporate/contactus)
+- [Careers](https://careers.mphasis.com/home.html)
+
+---
+
+- [Investors](/home/corporate/investors)
+- [Newsroom](/home/corporate/news-events)
+- [CSR](/home/corporate/community-social-responsibility)
+- [ESG](/home/esg)
+- [Contact](/home/corporate/contactus)

@@ -1,0 +1,39 @@
+{
+  "variantName": "cards-resources",
+  "baseBlock": "cards",
+  "version": "1.0.0",
+  "created": "2026-05-18T11:48:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.mphasis.com/home.html",
+    "originPage": "homepage",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "spacious",
+    "purpose": "resource-downloads",
+    "imagePattern": "noimg"
+  },
+  "contentPattern": {
+    "structure": "category-tag + heading + CTA",
+    "buttonCount": 1,
+    "imageCount": 0
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "downloadable resource listings",
+      "brochure/whitepaper cards",
+      "categorized content cards with download links"
+    ],
+    "notSuitableFor": [
+      "article listings with excerpts",
+      "image-heavy product cards",
+      "service offering grids"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/home"],
+    "reuseCount": 1,
+    "lastUsed": "2026-05-18T11:48:00.000Z"
+  }
+}

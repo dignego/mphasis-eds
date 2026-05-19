@@ -1,0 +1,8 @@
+{
+  "status": "failed",
+  "url": "https://www.mphasis.com/home.html",
+  "path": "home.html",
+  "timestamp": "2026-05-18T12:18:55.762Z",
+  "error": "CustomImportScript.default not found after 10s. The bundled script may not have loaded correctly. Check browser console for errors.",
+  "errorStack": "Error: CustomImportScript.default not found after 10s. The bundled script may not have loaded correctly. Check browser console for errors.\n    at processUrl (file:///home/node/.excat-marketplace/excat/skills/excat-content-import/scripts/run-bulk-import.js:452:13)\n    at runNextTicks (node:internal/process/task_queues:65:5)\n    at process.processImmediate (node:internal/timers:472:9)\n    at async main (file:///home/node/.excat-marketplace/excat/skills/excat-content-import/scripts/run-bulk-import.js:599:22)"
+}

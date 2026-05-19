@@ -1,0 +1,39 @@
+{
+  "variantName": "cards-approach",
+  "baseBlock": "cards",
+  "version": "1.0.0",
+  "created": "2026-05-18T11:48:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.mphasis.com/home.html",
+    "originPage": "homepage",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "spacious",
+    "purpose": "approach-pillars",
+    "imagePattern": "noimg"
+  },
+  "contentPattern": {
+    "structure": "title + description + CTA",
+    "buttonCount": 1,
+    "imageCount": 0
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "methodology/approach pillar cards",
+      "text-only feature cards with CTAs",
+      "service category overviews"
+    ],
+    "notSuitableFor": [
+      "image-heavy product cards",
+      "article listings",
+      "team member profiles"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/home"],
+    "reuseCount": 1,
+    "lastUsed": "2026-05-18T11:48:00.000Z"
+  }
+}

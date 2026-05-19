@@ -1,0 +1,39 @@
+{
+  "variantName": "carousel-homepage",
+  "baseBlock": "carousel",
+  "version": "1.0.0",
+  "created": "2026-05-18T11:48:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.mphasis.com/home.html",
+    "originPage": "homepage",
+    "blockPosition": "top"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "dark",
+    "density": "spacious",
+    "purpose": "homepage-hero",
+    "imagePattern": "large"
+  },
+  "contentPattern": {
+    "structure": "background-image + heading + description + CTA",
+    "buttonCount": 2,
+    "imageCount": 5
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "homepage hero banners",
+      "promotional carousel sections",
+      "full-width rotating announcements"
+    ],
+    "notSuitableFor": [
+      "product detail carousels",
+      "testimonial sliders",
+      "thumbnail galleries"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/home"],
+    "reuseCount": 1,
+    "lastUsed": "2026-05-18T11:48:00.000Z"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "variantName": "cards-articles",
+  "baseBlock": "cards",
+  "version": "1.0.0",
+  "created": "2026-05-18T11:48:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.mphasis.com/home.html",
+    "originPage": "homepage",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "dark",
+    "density": "spacious",
+    "purpose": "thought-leadership",
+    "imagePattern": "noimg"
+  },
+  "contentPattern": {
+    "structure": "heading + excerpt + CTA",
+    "buttonCount": 1,
+    "imageCount": 0
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "thought leadership article listings",
+      "blog post excerpts on dark backgrounds",
+      "featured content summaries"
+    ],
+    "notSuitableFor": [
+      "product cards with images",
+      "icon-based feature grids",
+      "resource download cards"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/home"],
+    "reuseCount": 1,
+    "lastUsed": "2026-05-18T11:48:00.000Z"
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "metadata": {
+    "projectType": "doc"
+  },
+  "templates": [
+    {
+      "name": "homepage",
+      "urls": [
+        "https://www.mphasis.com/home.html"
+      ],
+      "description": "Main homepage with hero banner, featured content, news highlights, and CTAs",
+      "blocks": [
+        {
+          "name": "carousel-homepage",
+          "instances": ["section.hero-carousel"]
+        },
+        {
+          "name": "cards-approach",
+          "instances": [".approach"]
+        },
+        {
+          "name": "cards-offerings",
+          "instances": [".offerings-grid"]
+        },
+        {
+          "name": "cards-articles",
+          "instances": [".container.main > .full-width-container:nth-child(4)"]
+        },
+        {
+          "name": "cards-resources",
+          "instances": [".column-control:has(.hotspot .tag)"]
+        },
+        {
+          "name": "columns-news",
+          "instances": [".latest-tabs"]
+        }
+      ],
+      "sections": [
+        {
+          "id": "section-1",
+          "name": "Hero Carousel",
+          "selector": "section.hero-carousel",
+          "style": null,
+          "blocks": ["carousel-homepage"],
+          "defaultContent": []
+        },
+        {
+          "id": "section-2",
+          "name": "Our Approach",
+          "selector": "section.our-approach",
+          "style": null,
+          "blocks": ["cards-approach"],
+          "defaultContent": ["section.our-approach > h3", "section.our-approach > p"]
+        },
+        {
+          "id": "section-3",
+          "name": "Our Offerings",
+          "selector": "section.our-offerings",
+          "style": null,
+          "blocks": ["cards-offerings"],
+          "defaultContent": ["section.our-offerings > h3"]
+        },
+        {
+          "id": "section-4",
+          "name": "Thought Leadership",
+          "selector": "section.thought-leadership",
+          "style": "dark",
+          "blocks": ["cards-articles"],
+          "defaultContent": [".tl-intro"]
+        },
+        {
+          "id": "section-5",
+          "name": "Resources",
+          "selector": "section.resources",
+          "style": null,
+          "blocks": ["cards-resources"],
+          "defaultContent": ["section.resources > h3", "section.resources > a"]
+        },
+        {
+          "id": "section-6",
+          "name": "Latest at Mphasis",
+          "selector": "section.latest-at-mphasis",
+          "style": "dark",
+          "blocks": ["columns-news"],
+          "defaultContent": ["section.latest-at-mphasis > h3"]
+        }
+      ]
+    },
+    {
+      "name": "industry-landing",
+      "urls": [
+        "https://www.mphasis.com/home/industries/banking-capitalmarkets.html",
+        "https://www.mphasis.com/home/industries/insurance.html",
+        "https://www.mphasis.com/home/industries/payments.html",
+        "https://www.mphasis.com/home/industries/hospitality.html",
+        "https://www.mphasis.com/home/industries/airlines.html",
+        "https://www.mphasis.com/home/industries/healthcare.html",
+        "https://www.mphasis.com/home/industries/life-sciences.html",
+        "https://www.mphasis.com/home/industries/public-sector.html",
+        "https://www.mphasis.com/home/industries/hi-tech/hi-tech.html"
+      ],
+      "description": "Industry vertical landing pages with overview, sub-navigation, and service highlights",
+      "blocks": []
+    },
+    {
+      "name": "industry-detail",
+      "urls": [
+        "https://www.mphasis.com/home/industries/banking-capitalmarkets/asset-management.html",
+        "https://www.mphasis.com/home/industries/banking-capitalmarkets/corporate-banking.html",
+        "https://www.mphasis.com/home/industries/banking-capitalmarkets/investment-banking.html",
+        "https://www.mphasis.com/home/industries/banking-capitalmarkets/retail-banking.html",
+        "https://www.mphasis.com/home/industries/banking-capitalmarkets/wealth-managementbrokerage.html",
+        "https://www.mphasis.com/home/industries/banking-capitalmarkets/mortgage-solutions.html",
+        "https://www.mphasis.com/home/industries/insurance/services.html",
+        "https://www.mphasis.com/home/industries/insurance/life-and-annuity.html",
+        "https://www.mphasis.com/home/industries/insurance/property-casuality.html",
+        "https://www.mphasis.com/home/industries/insurance/specialty-insurance.html",
+        "https://www.mphasis.com/home/industries/insurance/brokerage.html",
+        "https://www.mphasis.com/home/industries/payments/mphasis-alta.html",
+        "https://www.mphasis.com/home/industries/other-industries/oil-and-gas.html",
+        "https://www.mphasis.com/home/industries/other-industries/communications.html",
+        "https://www.mphasis.com/home/industries/other-industries/energy-and-utility.html",
+        "https://www.mphasis.com/home/industries/other-industries/logistics.html",
+        "https://www.mphasis.com/home/industries/other-industries/manufacturing.html"
+      ],
+      "description": "Sub-industry detail pages with specific service offerings and case studies",
+      "blocks": []
+    },
+    {
+      "name": "service-landing",
+      "urls": [
+        "https://www.mphasis.com/home/services/application-services.html",
+        "https://www.mphasis.com/home/services/blockchain-technology.html",
+        "https://www.mphasis.com/home/services/business-process-services.html",
+        "https://www.mphasis.com/home/services/cognitive.html",
+        "https://www.mphasis.com/home/services/cyber-security.html",
+        "https://www.mphasis.com/home/services/devOps/devOps.html",
+        "https://www.mphasis.com/home/services/digital.html",
+        "https://www.mphasis.com/home/services/grc.html",
+        "https://www.mphasis.com/home/services/infrastructure-services.html",
+        "https://www.mphasis.com/home/services/salesforce-consulting-services-coe.html",
+        "https://www.mphasis.com/home/services/cloud-computing-services.html"
+      ],
+      "description": "Service category landing pages with overview, capabilities list, and related offerings",
+      "blocks": []
+    },
+    {
+      "name": "service-detail",
+      "urls": [
+        "https://www.mphasis.com/home/services/application-services/enterprise-resource-planning.html",
+        "https://www.mphasis.com/home/services/application-services/customer-relationship-management.html",
+        "https://www.mphasis.com/home/services/application-services/data-engineering.html",
+        "https://www.mphasis.com/home/services/application-services/testing-services.html",
+        "https://www.mphasis.com/home/services/application-services/business-process-management.html",
+        "https://www.mphasis.com/home/services/application-services/enterprise-architecture-and-integration.html",
+        "https://www.mphasis.com/home/services/application-services/application-management-services.html",
+        "https://www.mphasis.com/home/services/application-services/mainframe-services.html",
+        "https://www.mphasis.com/home/services/application-services/digital-dashboard.html",
+        "https://www.mphasis.com/home/services/application-services/developer-experience-portal.html",
+        "https://www.mphasis.com/home/services/devOps/devOps-automation-sevices.html",
+        "https://www.mphasis.com/home/services/cloud-computing-services/aws-services.html",
+        "https://www.mphasis.com/home/services/cloud-computing-services/azure-services.html",
+        "https://www.mphasis.com/home/services/cloud-computing-services/gcp-services.html",
+        "https://www.mphasis.com/home/services/cloud-computing-services/vmware.html"
+      ],
+      "description": "Specific service detail pages with technical capabilities, benefits, and case studies",
+      "blocks": []
+    },
+    {
+      "name": "capability",
+      "urls": [
+        "https://www.mphasis.com/home/our-approach-new.html",
+        "https://www.mphasis.com/home/our-approach-new/enterprise-automation.html",
+        "https://www.mphasis.com/home/our-approach-new/modernization.html",
+        "https://www.mphasis.com/home/our-approach-new/next-gen-data.html",
+        "https://www.mphasis.com/home/mphasis-ai.html",
+        "https://www.mphasis.com/home/experience-design.html",
+        "https://www.mphasis.com/home/agile-it-ops.html",
+        "https://www.mphasis.com/home/microsoft-coe.html",
+        "https://www.mphasis.com/home/platformsandprotocols-xaap.html",
+        "https://www.mphasis.com/home/industries/hi-tech/hi-tech/product-engineering-services.html",
+        "https://www.mphasis.com/home/innovation/sparkle.html",
+        "https://www.mphasis.com/home/innovation/nextlabs.html"
+      ],
+      "description": "Approach, capability, and innovation pages showcasing methodology and platforms",
+      "blocks": []
+    },
+    {
+      "name": "corporate",
+      "urls": [
+        "https://www.mphasis.com/home/corporate/about-mphasis.html",
+        "https://www.mphasis.com/home/corporate/leadership.html",
+        "https://www.mphasis.com/home/corporate/investors.html",
+        "https://www.mphasis.com/home/corporate/news-events.html",
+        "https://www.mphasis.com/home/corporate/awards-and-partners.html",
+        "https://www.mphasis.com/home/corporate/analyst-mentions.html",
+        "https://www.mphasis.com/home/corporate/diversity-at-mphasis.html",
+        "https://www.mphasis.com/home/corporate/community-social-responsibility.html",
+        "https://www.mphasis.com/home/corporate/whistleblower.html",
+        "https://www.mphasis.com/home/corporate/contactus.html",
+        "https://www.mphasis.com/home/corporate/thought-leadership.html",
+        "https://www.mphasis.com/home/corporate/mphasis-subsidiaries.html"
+      ],
+      "description": "Corporate information pages including about, leadership, investors, and CSR",
+      "blocks": []
+    },
+    {
+      "name": "subsidiary",
+      "urls": [
+        "https://www.mphasis.com/home/corporate/mphasis-subsidiaries/blink.html",
+        "https://www.mphasis.com/home/corporate/mphasis-subsidiaries/datalytyx.html",
+        "https://www.mphasis.com/home/corporate/mphasis-subsidiaries/digital-risk.html",
+        "https://www.mphasis.com/home/corporate/mphasis-subsidiaries/javelina.html",
+        "https://www.mphasis.com/home/corporate/mphasis-subsidiaries/silverline.html",
+        "https://www.mphasis.com/home/corporate/mphasis-subsidiaries/stelligent.html",
+        "https://www.mphasis.com/home/corporate/mphasis-subsidiaries/wyde.html"
+      ],
+      "description": "Subsidiary company profile pages with overview and capabilities",
+      "blocks": []
+    },
+    {
+      "name": "blog-article",
+      "urls": [
+        "https://www.mphasis.com/home/thought-leadership/blog/why-agentic-ai-needs-a-living-enterprise-memory.html",
+        "https://www.mphasis.com/home/thought-leadership/blog/boosting-developer-productivity-with-mphasis-neocrux-generative-ai-approach.html",
+        "https://www.mphasis.com/home/thought-leadership/blog/using-data-analytics-to-personalize-mortgage-solutions-for-younger-generations.html",
+        "https://www.mphasis.com/home/thought-leadership/blog/how-automation-is-saving-lenders-million.html"
+      ],
+      "description": "Thought leadership blog articles with author info, content body, and related posts",
+      "blocks": []
+    },
+    {
+      "name": "event",
+      "urls": [
+        "https://www.mphasis.com/home/corporate/events/event-landing/google-cloud-next-2026.html",
+        "https://www.mphasis.com/home/corporate/events/event-landing/siia-national-conference-2025.html"
+      ],
+      "description": "Event landing pages with event details, agenda, and registration CTAs",
+      "blocks": []
+    },
+    {
+      "name": "utility",
+      "urls": [
+        "https://www.mphasis.com/home/privacy.html",
+        "https://www.mphasis.com/home/cookie.html",
+        "https://www.mphasis.com/home/terms-of-Use.html",
+        "https://www.mphasis.com/home/corporate/languages.html",
+        "https://www.mphasis.com/home/corporate/languages/mphasis-french.html",
+        "https://www.mphasis.com/home/corporate/languages/mphasis-german.html",
+        "https://www.mphasis.com/home/resources/downloads.html"
+      ],
+      "description": "Utility pages including legal documents, language selectors, and resource downloads",
+      "blocks": []
+    },
+    {
+      "name": "standalone",
+      "urls": [
+        "https://www.mphasis.com/home/culture.html",
+        "https://www.mphasis.com/home/esg.html",
+        "https://www.mphasis.com/home/mphasis-partners-with-haas-f1-team.html"
+      ],
+      "description": "Standalone content pages for culture, ESG, and partnership announcements",
+      "blocks": []
+    }
+  ]
+}

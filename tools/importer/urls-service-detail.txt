@@ -1,0 +1,15 @@
+https://www.mphasis.com/home/services/application-services/enterprise-resource-planning.html
+https://www.mphasis.com/home/services/application-services/customer-relationship-management.html
+https://www.mphasis.com/home/services/application-services/data-engineering.html
+https://www.mphasis.com/home/services/application-services/testing-services.html
+https://www.mphasis.com/home/services/application-services/business-process-management.html
+https://www.mphasis.com/home/services/application-services/enterprise-architecture-and-integration.html
+https://www.mphasis.com/home/services/application-services/application-management-services.html
+https://www.mphasis.com/home/services/application-services/mainframe-services.html
+https://www.mphasis.com/home/services/application-services/digital-dashboard.html
+https://www.mphasis.com/home/services/application-services/developer-experience-portal.html
+https://www.mphasis.com/home/services/devOps/devOps-automation-sevices.html
+https://www.mphasis.com/home/services/cloud-computing-services/aws-services.html
+https://www.mphasis.com/home/services/cloud-computing-services/azure-services.html
+https://www.mphasis.com/home/services/cloud-computing-services/gcp-services.html
+https://www.mphasis.com/home/services/cloud-computing-services/vmware.html

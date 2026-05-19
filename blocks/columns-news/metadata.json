@@ -1,0 +1,39 @@
+{
+  "variantName": "columns-news",
+  "baseBlock": "columns",
+  "version": "1.0.0",
+  "created": "2026-05-18T11:48:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.mphasis.com/home.html",
+    "originPage": "homepage",
+    "blockPosition": "bottom"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "dark",
+    "density": "compact",
+    "purpose": "news-events",
+    "imagePattern": "noimg"
+  },
+  "contentPattern": {
+    "structure": "3-columns: press-releases + news + events",
+    "buttonCount": 1,
+    "imageCount": 0
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "news/events multi-column layouts",
+      "press release listings on dark backgrounds",
+      "three-column information panels"
+    ],
+    "notSuitableFor": [
+      "image-heavy side-by-side content",
+      "two-column text layouts",
+      "product comparison columns"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/home"],
+    "reuseCount": 1,
+    "lastUsed": "2026-05-18T11:48:00.000Z"
+  }
+}

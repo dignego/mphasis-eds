@@ -1,0 +1,39 @@
+{
+  "variantName": "cards-offerings",
+  "baseBlock": "cards",
+  "version": "1.0.0",
+  "created": "2026-05-18T11:48:00.000Z",
+  "sourceContext": {
+    "originUrl": "https://www.mphasis.com/home.html",
+    "originPage": "homepage",
+    "blockPosition": "middle"
+  },
+  "visualCharacteristics": {
+    "colorScheme": "light",
+    "density": "compact",
+    "purpose": "service-offerings",
+    "imagePattern": "icon"
+  },
+  "contentPattern": {
+    "structure": "icon-image + label-link",
+    "buttonCount": 0,
+    "imageCount": 8
+  },
+  "reuseGuidance": {
+    "suitableFor": [
+      "service offering grids",
+      "feature highlights with icons",
+      "capability showcases"
+    ],
+    "notSuitableFor": [
+      "article listings",
+      "team member profiles",
+      "resource downloads"
+    ]
+  },
+  "usage": {
+    "pagesUsing": ["/home"],
+    "reuseCount": 1,
+    "lastUsed": "2026-05-18T11:48:00.000Z"
+  }
+}

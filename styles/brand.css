@@ -1,0 +1,19 @@
+:root {
+  --heading-font-family: calibri, "Helvetica Neue", arial, sans-serif;
+  --body-font-family: calibri, "Helvetica Neue", arial, sans-serif;
+  --background-color: #fff;
+  --text-color: #000;
+  --link-color: #337ab7;
+  --link-hover-color: #23527c;
+  --light-color: #f9f9f9;
+  --dark-color: #1287b2;
+  --section-padding: 40px 0;
+  --nav-height: 50px;
+  --content-max-width: 1200px;
+  --heading-size-xxl: 30px;
+  --heading-size-xl: 30px;
+  --heading-size-l: 24px;
+  --heading-size-m: 18px;
+  --heading-size-s: 14px;
+  --heading-size-xs: 12px;
+}
